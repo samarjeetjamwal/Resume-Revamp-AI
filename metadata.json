@@ -1,0 +1,5 @@
+{
+  "name": "ResumeRevamp AI",
+  "description": "An AI-powered resume builder that transforms old resumes into modern, ATS-friendly formats. Upload your existing resume to generate 8 professional variations instantly.",
+  "requestFramePermissions": []
+}
